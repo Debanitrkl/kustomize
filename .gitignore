@@ -19,7 +19,6 @@
 
 # macOS
 *.DS_store
-.vscode
 .bin
 
 # Hugo site
